@@ -45,7 +45,7 @@
 - BLoC test:
   - <https://www.youtube.com/watch?v=S6jFBiiP0Mc&t=86s>
 
-## PAQUETES RECOMENADOS
+## Paquetes recomendados
 
 ### BBDD y persistencia
 
