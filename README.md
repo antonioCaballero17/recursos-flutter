@@ -100,3 +100,10 @@
 - Import soter:
   - Ordenar tus imports
   - <https://pub.dev/packages/import_sorter>
+  
+### Utilidades
+
+- mask_text_input_formatter
+  - Añade máscaras a text field
+  - <https://pub.dev/packages/mask_text_input_formatter>
+  
